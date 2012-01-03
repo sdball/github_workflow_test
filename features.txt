@@ -1,1 +1,2 @@
 This line was added by Feature A
+Another line from Feature A

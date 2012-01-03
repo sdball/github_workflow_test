@@ -34,7 +34,7 @@ If the pull request cannot be automatically merged:
 **Step 1**: Bring in the changes and test
 
     git fetch origin
-    git checkout -b twitter_bootstrap origin/twitter_bootstrap
+    git checkout -b feature_name origin/feature_name
 
 **Step 2**: Make sure the feature branch is up to date.
 

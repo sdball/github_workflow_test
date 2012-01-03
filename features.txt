@@ -1,3 +1,4 @@
 This line was added by Feature A
 Another line from Feature A
 This line was added by Feature B
+This line was added by Feature C
